@@ -1,0 +1,35 @@
+*{
+    text-align: center;
+    background-color: black;
+    color: blanchedalmond
+}
+h1{
+  font-family: "Gloria Hallelujah", cursive;
+  font-weight: 400;
+  font-style: normal;
+  padding-top: 10%;
+}
+.andi{
+  text-align: left;
+  border-radius:60%;
+}
+.junior{
+font-size: small;
+}
+.intro{
+  font-family: "Gloria Hallelujah", cursive;
+  font-weight: 400;
+  font-style: normal;
+  float:left;
+}
+.links{
+  padding-top: 4%;
+}
+.front{
+  position: sticky
+  padding-left: 50%;
+}
+footer{
+clear:left;
+margin-top: 50%;
+}
